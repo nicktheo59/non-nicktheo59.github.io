@@ -21,8 +21,8 @@ This was 3 weeks of work (granted over the Christmas holiday) using Sibelius - t
 I really was going for a continuous 40+ minute track with at least 12 instruments. In the end I managed to match 2-minutes worth into a somewhat cohesive whole (the video above). My favourite is the last 30 seconds which everyone agrees should be the theme tune to a detective show. EVERYONE.
 
 There were other musical fragments which seemed just barely good enough to graduate from their original description of 'sounds'. I decided to release these as two Shostakovich-inspired tracks imaginally entitled 'Happy' and 'Creepy'.
->Happy - https://www.youtube.com/watch?v=0bv0QWD3L3I
->Creepy - https://youtu.be/E0bWJjaYils 
+* Happy - https://www.youtube.com/watch?v=0bv0QWD3L3I
+* Creepy - https://youtu.be/E0bWJjaYils 
 
 ### And a nested list:
 
