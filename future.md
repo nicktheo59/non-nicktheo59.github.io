@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Back](./index.md).
+[Back to Present](./index.md).
 
 There should be whitespace between paragraphs.
 

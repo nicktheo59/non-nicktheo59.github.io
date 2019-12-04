@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to Past](./past.md).        [Link to Future](./future.html). 
+[Back to Present](./index.md).
 
 There should be whitespace between paragraphs.
 
