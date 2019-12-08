@@ -2,8 +2,7 @@
 layout: default
 ---
 
-<iframe width="640" height="480" src="https://ytcropper.com/embed/yM5decc3080c294/loop/noautoplay/" frameborder="0" allowfullscreen></iframe><a href="/" target="_blank">via ytCropper</a>
-
+![](caption_search.gif)
 
 
 [Link to Past](./past.md).[Link to Future](./future.html). 
