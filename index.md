@@ -4,6 +4,8 @@ layout: default
 
 ![](caption_search.gif)
 
+![](plasma_simulation.gif)
+
 
 [Link to Past](./past.md).[Link to Future](./future.html). 
 
