@@ -6,6 +6,10 @@ layout: default
 
 ![](plasma_simulation.gif)
 
+[My under developed ideas for solving the Yang-Mills Mass Gap Problem](./yang.md)
+
+***
+
 
 [Link to Past](./past.md).[Link to Future](./future.html). 
 
