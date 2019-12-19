@@ -1,6 +1,6 @@
 19DEC19
 
-Madonna talked about not wanting to be PPPedestrian, well this 2017 iMAC always takes like million years to do anything (like save a basic text file), my 2011 Windows 7 Toshiba is literally rapid in a side by side comparison. [include benchmark PICS]
+Madonna talked about not wanting to be PPPedestrian, well this 2017 iMAC always takes like million years to do anything (like save a basic text file), my 2011 Windows 7 Toshiba is literally rapid in a side by side comparison (include benchmark PICS).
 
 ***
 I have certain obsessions, aside from wanting to achieve the 5 things i have mapped to my fingers, namely: BSFL; AR Book; Auto-S; TBricks; Solar (in reverse order)
