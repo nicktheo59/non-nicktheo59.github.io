@@ -11,7 +11,7 @@ layout: default
 ***
 
 
-[Link to Past](./past.md).[Link to Future](./future.html). 
+[Link to Past](./past_projects.md).												[Link to Future](./future_projects.html). 
 
 My idea here is to Record myself reading this to Descrypt, then to autogenerate future 'episodes' and publish them to YouTube and Anchor (with a couple relevant pictures if video - perhaps an AI generated representation)
 
