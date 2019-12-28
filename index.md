@@ -8,6 +8,8 @@ layout: default
 
 [My under developed ideas for solving the Yang-Mills Mass Gap Problem](./yang.md)
 
+![](./assets/img/investor_day.png)
+
 ***
 
 
