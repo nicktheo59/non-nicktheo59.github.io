@@ -42,14 +42,18 @@ If you would like to reach out/keep in touch/ collaborate with me on this 4-part
 
 
 
-## Portfolio Projects (Reverse Chronological)
+## Portfolio Projects (Semi-Chronological)
 
-More links/gifs coming soon with concise explanations.
+More links/gifs coming soon with concise explanations as I go.
+
 
 ![](caption_search.gif)
 
-***
+If, having skimmed through my Portfolio Projects below, you have any feedback (or even potential job offers),
+the best (and fastest) place to probably reach me is Twitter. DMs are open :)
+<a href="https://twitter.com/nicktheodorou?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @nicktheodorou</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+***
 
 
 Lua - Scripts for programming Keithley Machines to measure POWER / I-V Curves of Dye Synthesized Solar Cells of any size by sweeping Current and Voltage
@@ -75,31 +79,32 @@ LaTeX - My _beautifully_ typeset Masters' Thesis on Plasma Wakefield Acceleratio
 Algorithmia - Trained AI that rotates Photos for 'Horizon-correction' written in Python
 [Check it out here](https://youtu.be/Gtc-aU-nG5g)
 
-IBM Watson / Twilio - Telephony App that you phone to tell it your Symptoms and it response with Advice  ("Dr Watson")
+IBM Watson / Twilio - Telephony App that you phone to tell it your Symptoms and it responds with "medical Advice" ("Dr Watson")
 
-Twilio / Zapier / Sheets - A "Robo Caller" (purely for fun, not to spam). Send an email by typing a phone number in the Subject to receive a call that reads out the body text. To expand on this idea I used Yet Another Mail Merge and Google Sheets to generalise the Robo Caller's  abilities.
+Twilio / Zapier / Sheets - Send an email by typing a phone number in the Subject to receive a call that reads out the body text. ("Robo Caller" - purely for fun, not to spam).
+To expand on this idea I used Yet Another Mail Merge and Google Sheets to generalise the Robo Caller's  abilities
 
-Dialog Flow (api.ai) - Rough prototype of a Facebook Messenger chatbot designed to serve as your Personal Recruitment Consultant. Launched the idea on Product Hunt under the brand name Emissary [by Persona Ltd]. Pitched to Nathan Bowles CEO, Smart Recruitment.
+Dialog Flow (api.ai) - Rough prototype of a Facebook Messenger chatbot designed to serve as your Personal Recruitment Consultant. Launched the idea on Product Hunt under the brand name Emissary [by Persona Ltd]. Pitched to Nathan Bowles CEO, Smart Recruitment
 
-Twilio - Setup a Toll-free number that routes to an office landline for Smart Recruitment.
+Twilio - Setup a Toll-free number that routes to an office landline for Smart Recruitment
 
 Unity - Immersive VR world with Animations and Teleportation, compatible with a range of headsets and WebVR 
 
-![](vr.gif)
 ![](v2r.gif)
-![](v27r.gif)
 
-Sketch / Principle - High-fidelity Mockups for a mobile-first YouTube Captions Search application
+Sketch / Principle - High-fidelity Mockups for a mobile-first YouTube Captions Search application. I then edited a 'vlog' style video documenting the process. FYI - the final half of this video covers an unrelated project (called Auto-Shares) 
+[Check it out here - x1.75 playback speed advised](https://www.youtube.com/watch?v=yM6DIXmob8A&feature=youtu.be)
 
 Progressive Web Apps - Deployment of the _beautiful_ sample Books search app, idea is to swap out the Google Books API for Youtube Video results using Audio Transcription Microservice + a TFIDF algorithm written in Python
 
-Glide - Ported a collection public domain audio files into a step-by-step language learning course (App-based), includes a chat feature to find fellow students to practise with, and a directory to find expert local tutors; 
+Glide - Ported a collection public domain audio files into a step-by-step language learning course (App-based), includes a chat feature to find fellow students to practise with, and a [dummy] directory of local 1-to-1 language tutors. Also works as a Chrome App.
+[Check it out here](https://wthwy.glideapp.io/)
 
-Ethereum / Solidity - Deployed my own smart contract to the Test Network to prototype an idea using my own Tokens
+Ethereum / Solidity / Metamask - Deployed my own smart contract to the Test Network to prototype an idea using my own Tokens
 
 Typeform / Zapier / Trello - Built a JustEat-style menu and order tracking system for my Dad's restaurant
 
-Typeform Zapier Trello + Stripe + AdWords - Used a similar 'Stack' to the JustEat-clone and prototyped a new startup idea in 4 days to test business viability and Unit Economics, started generating sales
+Typeform Zapier Trello + Stripe + AdWords - Used a similar 'Stack' to the JustEat-clone and prototyped a new startup idea in 4 days to test business viability and Unit Economics. Started generating sales.
 
 Xcode / Unity - Experimented with Apple's newly released AR Kit to create an iOS app that demonstrates Augmented Reality
 
