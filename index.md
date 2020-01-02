@@ -101,7 +101,7 @@ Sketch / Principle - High-fidelity Mockups for a mobile-first YouTube Captions S
 
 Progressive Web Apps - Deployment of the _beautiful_ sample Books search app, idea is to swap out the Google Books API for Youtube Video results using Audio Transcription Microservice + a TFIDF algorithm written in Python
 
-Glide - Ported a collection public domain audio files into a step-by-step language learning course (App-based), includes a chat feature to find fellow students to practise with, and a [dummy] directory of local 1-to-1 language tutors. Also works as a Chrome App. <br/>
+Glide - Ported a collection of public domain audio files into a step-by-step language learning course (App-based), includes a chat feature to find fellow students to practise with, and a [dummy] directory of local 1-to-1 language tutors. Also works as a Chrome App. <br/>
 [Check it out here](https://wthwy.glideapp.io/)
 
 Ethereum / Solidity / Metamask - Deployed my own smart contract to the Test Network to prototype an idea using my own Tokens
