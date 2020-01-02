@@ -118,9 +118,10 @@ Xcode / Unity - Experimented with Apple's newly released AR Kit to create an iOS
 
 Everything you see above is work strictly engineered by me (solely), anything below is from a team project where I have served as a Product Manager / Project Manager:
 
+<br/>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2SUyHcx_PJ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br/>
 <br/>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d_M9h4Ndxts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
