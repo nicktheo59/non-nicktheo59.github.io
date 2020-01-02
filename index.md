@@ -2,21 +2,29 @@
 
 ## What is this Nikipedia thing anyway?
 
+The foundation of communication involves making assumptions about what other persons' know. I assume you can read English, or have access to a browser-extension that can translate this page for you. My main point is that 'knowledge clouds' exist between us, and in order for us to make  siginificant scientific progress in the future we will need to communicate efficently enough. The only other options are increasing the lifespan in which to make progress, or increasing the 'information bandwidth' in which to achieve. This 'personal knowledge cloud' is the low-tech solution for my half of the communication problem. Although in essence I started it almost 30 years too late to become a 'real-time' reflection, Nikipedia is an ongoing repository of 'time-series data' that mirrors the path intellectual things I choose to explore / exploit.
+
+***
+
 Hi, My Name is Nick or Νικόλαος in Greek.
 I wanted an easily-accessible place to share my projects and knowledge so I created this open source project.
 The idea is this: 
 - (Almost) every day I will write/think aloud/plan in a way that feels natural for me.
 - Sometimes those writings will be worth 'refactoring' into their own document/project.
 - I will polish / present those projects into something more coherent and reader-worthy here, on the first page.
-- Finally I will link between documents (html web pages) that I have personally generated in a wiki-like way 
--- To a) to serve as a firm foundation for future generations to also build on top of (you have access to all my thinking out aloud 'threads'.) 
-and b) to test my own understanding as I develop personal 'reference documentation'. This project is my personal fight against early-onset Alzheimer's. It is not enough to read and study; you must create and solve.
+- Finally, I will link between documents (html web pages) that I have personally generated in a wiki-like way --
+
+-- to a) to serve as a firm foundation for my descendents to also build on top of (should I be so lucky!), and
+b) to test my own understanding as I develop personal 'reference documentation'.
+Continued maintenance of this project is also my personal fight against early-onset Alzheimer's, and it is likely one day some big data summaries could be extacted from the text files.
+
+It is not enough to read and study; you must create and solve.
 
 ## Aims
 I'm lucky. I got to grow up in the right environment, with the right family, and right education.
-I spent my entire waking life orientatied towards one principle, in the same way Chris Hadfield chose to eat is vegetables from age 6 because he believed it would make him more likely to become an astronaut(!).
+I spent my entire waking life orientatied towards one principle, in the same way Chris Hadfield chose to eat is vegetables from age 6 because he believed it would make him more likely to become an astronaut(!) -- My principle was more of a 'feeling' and the feeling was to 'search' for the roots of what drives humanity forward - and then contribute to it.  
 
-What I (and feasibly also You) have decided to work on:
+What I (and feasibly You, my future collaborators) have decided to work on:
 
 - The Future of Energy and Pensions (Solar Club)
 - The Future of Education (Tinkerbricks VR/AR)
@@ -25,7 +33,7 @@ What I (and feasibly also You) have decided to work on:
 
 ![](assets/img/jigsaw.png)
 
-And of course other jobs/contracts/learning projects/activities related to these aims; they are holistic themes that I strive towards -- working to develop Customer Relationship Management software systems (which I have done), or gaining 2-3 years of employment in the AR hardware or VR Training industry, for example, are all necessary and relevant to these Aims.
+And of course other jobs/contracts/side projects/activities related to these Aims; they are holistic themes part of a bigger jigsaw puzzle -- therefore working to develop Customer Relationship Management software systems (which I have done), or gaining 2-3 years of employment in the AR hardware or VR Training industry, for example, are all necessary and relevant to enjoying the journey of achieving these Aims.
 
 
  <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/nickth" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/nickth', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">The Future of XYZ</a></p></form>
@@ -39,3 +47,66 @@ If you would like to reach out/keep in touch/ collaborate with me on this 4-part
 More links/gifs coming soon with concise explanations.
 
 ![](caption_search.gif)
+
+***
+
+
+
+Lua - Scripts for programming Keithley Machines to measure POWER / I-V Curves of Dye Synthesized Solar Cells of any size by sweeping Current and Voltage
+
+Mathematica - Managing Packages and a Notebook to visualise the efficiency of Dye Synthesized Solar Cells under fluorescent and outdoor light sources (Measuring the Shockley-Queisser limit) 
+
+CLI / Unix Commands - Submitting Particle-in-Cell simulation jobs to UCL's Super Computing Cluster (HPC)
+
+MATLAB - Solving Equations of Motion for a Double Pendulum; Creating Time Lapse visualisations of Proton-Driven Plasma Wakefields
+
+Processing - Arduino-controlled Data Visualisation
+
+Meteor.js - Setting up Telescope (a hacker news clone); Login with Twitter / Conference Attendee App
+
+C++ - Use of Statistics libraries written by CERN to analyse example results data, Glen Cowan was my instructor
+
+LAMP Stack - Data-Driven 140 Line Twitter Clone 
+
+LaTeX - My _beautifully_ typeset Masters' Thesis on Plasma Wakefield Acceleration (Thanks Donald Knuth)
+
+Algorithmia - Trained AI that rotates Photos for 'Horizon-correction' written in Python
+
+IBM Watson / Twilio - Telephony App that you phone to tell it your Symptoms and it response with Advice  ("Dr Watson")
+
+Twilio / Zapier - Send an email with phone number in the Subject to receive a call that reads out the body text ("Robo Caller"); a Script to Template 
+
+Dialog Flow - Rough prototype of a Facebook Messenger chatbot designed to serve as your Personal Recruitment Consultant
+
+Twilio - Setup a Toll-free number that routes to an office landline
+
+Unity - Immersive VR world with Animations and Teleportation, compatible with a range of headsets and WebVR 
+
+Sketch / Principle - High-fidelity Mockups for a mobile-first YouTube Captions Search application
+
+Progressive Web Apps - Deployment of the _beautiful_ sample Books search app, idea is to swap out the Google Books API for Youtube Video results using Audio Transcription Microservice + a TFIDF algorithm written in Python
+
+Glide - Ported a collection public domain audio files into a step-by-step language learning course (App-based), includes a chat feature to find fellow students to practise with, and a directory to find expert local tutors; 
+
+Ethereum / Solidity - Deployed my own smart contract to the Test Network to prototype an idea using my own Tokens
+
+Typeform / Zapier / Trello - Built a JustEat-style menu and order tracking system for my Dad's restaurant
+
+Typeform Zapier Trello + Stripe + AdWords - Used a similar 'Stack' to the JustEat-clone and prototyped a new startup idea in 4 days to test business viability and Unit Economics, started generating sales
+
+Xcode / Unity - Experimented with Apple's newly released AR Kit to create an iOS app that demonstrates Augmented Reality
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpGqMYtjz8M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
