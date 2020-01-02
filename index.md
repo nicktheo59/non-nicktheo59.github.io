@@ -1,6 +1,6 @@
 ![](plasma_simulation.gif)
 <br/>
-[Jump to my Portfolio Projects](#PortfolioProjects)  
+[Jump to my Portfolio Projects](#Portfolio)  
 
 ## What is this Nikipedia thing anyway?
 
@@ -43,7 +43,7 @@ If you would like to reach out/keep in touch/collaborate with me on this 4-part 
 
 
 
-<a id="PortfolioProjects"> </a>
+<a id="Portfolio"> </a>
 <br/>
 
 ## Portfolio Projects (Semi-Chronological)
@@ -60,7 +60,7 @@ the best (and fastest) place to probably reach me is Twitter. DMs are open :)
 ***
 
 
-Lua - Scripts for programming Keithley Machines to measure POWER / I-V Curves of Dye Synthesized Solar Cells of any size by sweeping Current and Voltage
+Lua - Wrote scripts for programming Keithley Machines to measure POWER / I-V Curves of Dye Synthesized Solar Cells of any size by sweeping Current and Voltage
 
 Mathematica - Managing Packages and a Notebook to visualise the efficiency of Dye Synthesized Solar Cells under fluorescent and outdoor light sources (Measuring the Shockley-Queisser limit) 
 
