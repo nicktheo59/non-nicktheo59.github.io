@@ -66,21 +66,25 @@ Meteor.js - Setting up Telescope (a hacker news clone); Login with Twitter / Con
 
 C++ - Use of Statistics libraries written by CERN to analyse example results data, Glen Cowan was my instructor
 
-LAMP Stack - Data-Driven 140 Line Twitter Clone 
+LAMP Stack - Data-Driven 140 Line Twitter Clone [Check it out here](http://tweetdemo.tinkerbricks.co/)
 
-LaTeX - My _beautifully_ typeset Masters' Thesis on Plasma Wakefield Acceleration (Thanks Donald Knuth)
+LaTeX - My _beautifully_ typeset Masters' Thesis on Plasma Wakefield Acceleration (Thanks Donald Knuth) [Check it out here](https://www.amazon.co.uk/Beyond-Large-Hadron-Collider-Particle-ebook/dp/B076PXBTQ7)
 
-Algorithmia - Trained AI that rotates Photos for 'Horizon-correction' written in Python
+Algorithmia - Trained AI that rotates Photos for 'Horizon-correction' written in Python [Check it out here](https://youtu.be/Gtc-aU-nG5g)
 
 IBM Watson / Twilio - Telephony App that you phone to tell it your Symptoms and it response with Advice  ("Dr Watson")
 
-Twilio / Zapier - Send an email with phone number in the Subject to receive a call that reads out the body text ("Robo Caller"); a Script to Template 
+Twilio / Zapier / Sheets - A "Robo Caller" (purely for fun, not to spam). Send an email by typing a phone number in the Subject to receive a call that reads out the body text. To expand on this idea I used Yet Another Mail Merge and Google Sheets to generalise the Robo Caller's  abilities.
 
-Dialog Flow - Rough prototype of a Facebook Messenger chatbot designed to serve as your Personal Recruitment Consultant
+Dialog Flow (api.ai) - Rough prototype of a Facebook Messenger chatbot designed to serve as your Personal Recruitment Consultant. Launched the idea on Product Hunt under the brand name Emissary [by Persona Ltd]. Pitched to Nathan Bowles CEO, Smart Recruitment.
 
-Twilio - Setup a Toll-free number that routes to an office landline
+Twilio - Setup a Toll-free number that routes to an office landline for Smart Recruitment.
 
 Unity - Immersive VR world with Animations and Teleportation, compatible with a range of headsets and WebVR 
+
+![](vr.gif)
+![](v2r.gif)
+![](v27r.gif)
 
 Sketch / Principle - High-fidelity Mockups for a mobile-first YouTube Captions Search application
 
