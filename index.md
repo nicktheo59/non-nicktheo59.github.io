@@ -60,17 +60,20 @@ CLI / Unix Commands - Submitting Particle-in-Cell simulation jobs to UCL's Super
 
 MATLAB - Solving Equations of Motion for a Double Pendulum; Creating Time Lapse visualisations of Proton-Driven Plasma Wakefields
 
-Processing - Arduino-controlled Data Visualisation
+Processing - Arduino-controlled Data Visualisation [In future I could run this type of project directly in a web environment]
 
 Meteor.js - Setting up Telescope (a hacker news clone); Login with Twitter / Conference Attendee App
 
 C++ - Use of Statistics libraries written by CERN to analyse example results data, Glen Cowan was my instructor
 
-LAMP Stack - Data-Driven 140 Line Twitter Clone [Check it out here](http://tweetdemo.tinkerbricks.co/)
+LAMP Stack - Data-Driven 140 Line Twitter Clone
+[Check it out here](http://tweetdemo.tinkerbricks.co/)
 
-LaTeX - My _beautifully_ typeset Masters' Thesis on Plasma Wakefield Acceleration (Thanks Donald Knuth) [Check it out here](https://www.amazon.co.uk/Beyond-Large-Hadron-Collider-Particle-ebook/dp/B076PXBTQ7)
+LaTeX - My _beautifully_ typeset Masters' Thesis on Plasma Wakefield Acceleration (Thanks Donald Knuth)
+[Check it out here](https://www.amazon.co.uk/Beyond-Large-Hadron-Collider-Particle-ebook/dp/B076PXBTQ7)
 
-Algorithmia - Trained AI that rotates Photos for 'Horizon-correction' written in Python [Check it out here](https://youtu.be/Gtc-aU-nG5g)
+Algorithmia - Trained AI that rotates Photos for 'Horizon-correction' written in Python
+[Check it out here](https://youtu.be/Gtc-aU-nG5g)
 
 IBM Watson / Twilio - Telephony App that you phone to tell it your Symptoms and it response with Advice  ("Dr Watson")
 
