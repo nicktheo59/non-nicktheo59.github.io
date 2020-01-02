@@ -1,4 +1,5 @@
 ![](plasma_simulation.gif)
+[Jump to my Portfolio Projects](#PortfolioProjects)  
 
 ## What is this Nikipedia thing anyway?
 
@@ -42,7 +43,7 @@ If you would like to reach out/keep in touch/collaborate with me on this 4-part 
 
 
 
-## Portfolio Projects (Semi-Chronological)
+##<a id="PortfolioProjects"></a>Portfolio Projects (Semi-Chronological)
 
 More links/gifs coming soon with concise explanations; this list is continuously being added to.
 
