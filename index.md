@@ -1,6 +1,7 @@
 ![](plasma_simulation.gif)
 <br/>
-[Jump to my Portfolio Projects](#Portfolio)  			| I'm Feeling Lazy [Show me a video instead!](http://invidio.us) 
+[Jump to my Portfolio Projects](#Portfolio)  			| 
+<!-- I'm Feeling Lazy [Show me a video instead!](http://invidio.us)  -->
 
 ## What is this Nikipedia thing anyway?
 
