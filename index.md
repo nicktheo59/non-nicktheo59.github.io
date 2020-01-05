@@ -1,4 +1,4 @@
-![](plasma_simulation.gif)
+![](./gif/plasma_simulation.gif)
 <br/>
 [Jump to my Portfolio Projects](#Portfolio)  			| 
 <!-- I'm Feeling Lazy [Show me a video instead!](http://invidio.us)  -->
@@ -52,7 +52,7 @@ If you would like to reach out/keep in touch/collaborate with me on this 4-part 
 More links/gifs coming soon with concise explanations; this list is continuously being added to.
 
 
-![](caption_search.gif)
+![](./gif/caption_search.gif)
 
 If, having skimmed through my Portfolio Projects below, you have any feedback (or even potential job offers),
 the best (and fastest) place to probably reach me is Twitter. DMs are open :)
@@ -102,10 +102,10 @@ Twilio - Setup a Toll-free number that routes to an office landline for Smart Re
 
 Unity - Immersive VR world with Animations and Teleportation, compatible with a range of headsets and WebVR 
 
-![](v2r.gif)
+![](./gif/v2r.gif)
 
 Sketch / Principle - High-fidelity Mockups for a mobile-first YouTube Captions Search application. I then edited a 'vlog' style video documenting the process. FYI - the final half of this video covers an unrelated project (called Auto-Shares) <br/> 
-[Check it out here - x1.75 playback speed advised](https://www.youtube.com/watch?v=yM6DIXmob8A&feature=youtu.be)
+[Check it out here](https://www.youtube.com/watch?v=yM6DIXmob8A&feature=youtu.be) - x1.5 playback speed advised
 
 Progressive Web Apps - Deployment of the _beautiful_ sample Books search app, idea is to swap out the Google Books API for Youtube Video results using Audio Transcription Microservice + a TFIDF algorithm written in Python
 
