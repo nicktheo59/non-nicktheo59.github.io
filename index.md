@@ -3,6 +3,13 @@
 [Jump to my Portfolio Projects](#Portfolio)  			| 
 <!-- I'm Feeling Lazy [Show me a video instead!](http://invidio.us)  -->
 
+Featured skill of the day:
+
+I can prototype interactive designs in FramerX
+
+![](./gif/frameX.gif)
+
+
 ## What is this Nikipedia thing anyway?
 
 The foundation of communication involves making assumptions about what other people know. I assume you can read English, or have access to a browser-extension that can translate this page for you. My main point is that 'knowledge clouds' exist between us, and in order for us to make  significant scientific progress in the future we will need to communicate more efficiently. The only other options are increasing the lifespan in which to make progress, or increasing the 'information bandwidth' in which to achieve. This 'personal knowledge cloud' is the low-tech solution for my half of the communication problem. Although in essence I started it almost 30 years too late to become a 'real-time' reflection, Nikipedia is an ongoing repository of 'time-series data' that mirrors the path of intellectual things I choose to explore / exploit.
