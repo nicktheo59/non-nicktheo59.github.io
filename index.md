@@ -1,11 +1,18 @@
 ![](./gif/plasma_simulation.gif)
 <br/>
-[Jump to my Portfolio Projects](#Portfolio)  			|| Discover one of my active Projects 
+[Jump to my Portfolio Projects](#Portfolio)  			|| Discover one of my active Projects: 
 
 <!-- (clickable pics):  -->
 <!-- 3 or 12/4 Columns -->
 
-![](./assets/img/a-s.png)
+![](./assets/img/autoshares.png)
+
+<!-- Tinkerbricks 
+[Cyprus] Solar Club [Subdomain] -->
+
+&& Browse this wiki for anything else:
+
+![](./assets/img/nikipedia-wiki.png)
 
 <!-- I'm Feeling Lazy [Show me a video summary!](http://invidio.us)  -->
 
@@ -73,6 +80,9 @@ More links/gifs coming soon with concise explanations; this list is continuously
 If, having skimmed through my Portfolio Projects below, you have any feedback (or even potential job offers),
 the best (and fastest) place to probably reach me is Twitter. DMs are open :)
 <a href="https://twitter.com/nicktheodorou?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @nicktheodorou</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!-- Downloadable CV with email capture / sent to your email ex mailinator, and/or simply linkedIn - with has pixel tracking anyway
+ -->
 
 ***
 Pre-Graduation:
