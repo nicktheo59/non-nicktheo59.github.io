@@ -1,18 +1,19 @@
 ![](./gif/plasma_simulation.gif)
 <br/>
-[Jump to my Portfolio Projects](#Portfolio)  			|| Discover one of my active Projects: 
+[Jump to my Portfolio Projects](#Portfolio)  			|| Discover one of my active Projects && Browse the wiki for anything else:
 
 <!-- (clickable pics):  -->
 <!-- 3 or 12/4 Columns -->
 
-![](./assets/img/autoshares.png)
+![](./assets/img/autoshares.png) ![](./assets/img/nikipedia-wiki.png)
 
+[![India Trip](https://i.ibb.co/tPbHVJL/https-i-ytimg-com-vi-r-U0yw-WUqaw-Q-maxresdefault.jpg)](https://www.youtube.com/watch?v=rU0ywWUqawQ "India Trip")
 <!-- Tinkerbricks 
 [Cyprus] Solar Club [Subdomain] -->
+<!-- Cloud Flare CDN -->
 
-&& Browse this wiki for anything else:
 
-![](./assets/img/nikipedia-wiki.png)
+
 
 <!-- I'm Feeling Lazy [Show me a video summary!](http://invidio.us)  -->
 
