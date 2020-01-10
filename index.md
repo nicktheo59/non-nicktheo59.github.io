@@ -1,6 +1,6 @@
 ![](./gif/plasma_simulation.gif)
 <br/>
-[Jump to my Portfolio Projects](#Portfolio)  			|| Discover one of my active Projects && Browse the wiki for anything else:
+[Jump to my Portfolio Projects](#Portfolio)  || Discover one active project && Browse the wiki for anything else:
 
 <!-- (clickable pics):  -->
 <!-- 3 or 12/4 Columns -->
@@ -162,11 +162,11 @@ My family's trade was Food Retail (specifically Fish & Chip shops) however as a 
 
 All in all these 2 projects took up 4-5 years of my life, but can honestly now say I've now 'done' much of what a professional business person could expect 'first hand' - chaired a board, raised venture captial, encounters with famous entrepreneurs _and that jazz_.
 
+***
 
+## Wiki
 <a id="wiki"> </a>
 <br/>
-***
-## Wiki
 
 ***
 
