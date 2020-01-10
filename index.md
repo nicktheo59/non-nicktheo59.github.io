@@ -172,7 +172,7 @@ All in all these 2 projects took up 4-5 years of my life, but can honestly now s
 
 Introduction to the wiki project (and how to contribute or start your own personal nikipedia-like project) will go here. 
 
-Currently it is started on ![Dropbox Paper](https://paper.dropbox.com/doc/Nikipedia.xyz--AoKMqJoL83fdu7Plfir9zBKpAQ-PDopxGgJNEDsApvVWYNjZ) but I seek to migrate / re-design it just because of the speed / memory footprint (other than that DBX Paper is a fantastic tool). 
+Currently it is started on [Dropbox Paper](https://paper.dropbox.com/doc/Nikipedia.xyz--AoKMqJoL83fdu7Plfir9zBKpAQ-PDopxGgJNEDsApvVWYNjZ) but I seek to migrate / re-design it just because of the speed / memory footprint (other than that DBX Paper is a fantastic tool). 
 
 <!-- When it would be necessary / useful include a search tool -->
 
