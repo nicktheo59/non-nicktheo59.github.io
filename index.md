@@ -180,8 +180,8 @@ Essentially my personal knowledge wiki currently exists on [Dropbox Paper](http:
 
 Here is a placeholder list of concepts I've learnt and am in the process of exploring / exploiting: 
 
-+[Quantum Error Correction](./wiki/QuantumErrorCorrection.md) 🏁
-+Fermi Surfaces 🏁
+* [Quantum Error Correction](./wiki/QuantumErrorCorrection.md) 🏁
+* Fermi Surfaces 🏁
 
 
 ![](assets/img/jigsaw.png)
