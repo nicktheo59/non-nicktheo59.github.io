@@ -1,18 +1,22 @@
 ![](./gif/plasma_simulation.gif)
 <br/>
-[Jump to my Portfolio Projects](#Portfolio)  || Discover one of my ongoing project Auto-Shares && Check out the wiki for the others (clickable pics):
+[Jump to my Portfolio Projects](#Portfolio)
+
+***
+
+Discover one of my active projects (clickable pics):
 
 <!-- (clickable pics):  -->
 <!-- 3 or 12/4 Columns -->
 
-[![](./assets/img/autoshares.png)](https://auto-shares.com "Auto Shares  Homepage") [![](./assets/img/nikipedia-wiki.png)](#wiki "Nikipedia WIKI")
+[![](./assets/img/autoshares.png)](./Auto-Shares/auto-index.md "Auto-Shares Infopage") [![](./assets/img/nikipedia-wiki.png)](#wiki "Nikipedia WIKI")
 
 <!-- Tinkerbricks 
 [Cyprus] Solar Club [Subdomain] -->
 <!-- Cloud Flare CDN -->
 <!-- I'm Feeling Lazy [Show me a video summary!](http://invidio.us)  -->
 
-There's a mailing list for rebels and bystanders to join. [go there](#mailing)
+There's also a mailing list for fellow rebels (and bystanders) to join. [Jump there](#mailing)
 
 ## Firstly, what is this Nikipedia thing anyway?
 
@@ -171,19 +175,21 @@ All in all these 2 projects took up 4-5 years of my life, but can honestly now s
 
 ***
 ## Wiki
-
 ***
-This was started on and still partially exists on [Dropbox Paper](http://bit.ly/39WwyEj) (There is a presentation mode button at the top if you prefer).
+Essentially my personal knowledge wiki currently exists on [Dropbox Paper](http://bit.ly/39WwyEj) but I plan to use it interchangeably with this site. (There is a button for presentation mode at the top if you like big text). 
+
+Here is a placeholder list of concepts I've learnt and am in the process of exploring / exploiting: 
+
++[Quantum Error Correction](./wiki/QuantumErrorCorrection.md) 🏁
++Fermi Surfaces 🏁
 
 
-Introduction to the Wiki project will go here (& instructions on how to contribute or start your own personal "Nikipedia-like" / Knowledge-cloud project) 
+![](assets/img/jigsaw.png)
 
+To start your own personal "Nikipedia-like" / Knowledge-cloud project just fork this Repo on Github
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8QiPFmIMxFc?start=1401" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-
-as the 'repository' but then decided to migrate / re-design it just because of the speed / memory footprint (other than that DBX Paper is a fantastic tool). 
 
 <!-- When it would be necessary / useful include a search tool -->
 
@@ -205,7 +211,5 @@ as the 'repository' but then decided to migrate / re-design it just because of t
 
 
 
+&copy; Nick L. Theodorou MMXX - Heat Death of the Universe (or, you know, until any of my work moves into the public domain)
 
-```
-&copy; Nick L. Theodorou MMXX - Heat Death of the Universe
-```
