@@ -186,7 +186,21 @@ Here is a placeholder list of concepts I've learnt and am in the process of expl
 
 ![](assets/img/jigsaw.png)
 
-To start your own personal "Nikipedia-like" / Knowledge-cloud project just fork this Repo on Github
+To start your own personal "Nikipedia-like" / Knowledge-cloud project:
+1. Just click the very first button at the top of this page, 
+2. fork this Repo on Github, rename it the same as your Github username (as I did with mine), 
+3. replace my content with yours, style it however you like (optional), then tell me it exists (I would love to check it out)
+
+Same instructions go for Collaborating, Correcting anything I wrote, or otherwise "Contributing" (intellectually that is...) plus
+
+4. Open a Pull request on Github
+
+Here are a list of changed folders I'm willing to accept Pull Requests from once I have had time to review it and (in the spirit of this entire project) demonstated that your content is now _actually_ part of my knowledge cloud -- ensuring that this website doesn't simply become a pale pale version of actual Wikipedia.
+
+***
+
+
+I'll leave you with a every interesting video I saw recently. 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8QiPFmIMxFc?start=1401" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -195,20 +209,31 @@ To start your own personal "Nikipedia-like" / Knowledge-cloud project just fork 
 
 <!-- List of links to other projects, Just the Script,  etc.  -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 &copy; Nick L. Theodorou MMXX - Heat Death of the Universe (or, you know, until any of my work moves into the public domain)
