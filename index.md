@@ -174,7 +174,7 @@ All in all these 2 projects took up 4-5 years of my life, but can honestly now s
 <br/>
 
 ***
-## Wiki
+## Niki's Wiki
 ***
 Essentially my personal knowledge wiki currently exists on [Dropbox Paper](http://bit.ly/39WwyEj) but I plan to use it interchangeably with this site. (There is a button for presentation mode at the top if you like big text). 
 
@@ -197,10 +197,22 @@ Same instructions go for Collaborating, Correcting anything I wrote, or otherwis
 
 Here are a list of changed folders I'm willing to accept Pull Requests from once I have had time to review it and (in the spirit of this entire project) demonstated that your content is now _actually_ part of my knowledge cloud -- ensuring that this website doesn't simply become a pale pale version of actual Wikipedia.
 
+* ./wiki
+* ./auto-shares
+* ./tinkerbricks (tbc)
+* ./solarclub (tbc)
+* ./Just-The-Script.com (tbc)
+* ./Alternate-Realities-visitorbook (tbc)
+* ./Reunification-project (tbc)
+* ./BSFL (tbc)
+
+For some of these (if they are truly to all exist here in this one repo) Containerisation will be essential ^^
+Similarly for larger media item the "files" like audio will merely be http links that point to their actual location on a CDN. 
+
 ***
 
 
-I'll leave you with a every interesting video I saw recently. 
+I'll leave you with a every interesting video I saw recently. Thanks for stopping by, that'll be all.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8QiPFmIMxFc?start=1401" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
