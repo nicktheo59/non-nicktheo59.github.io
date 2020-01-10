@@ -9,7 +9,7 @@ Discover one of my active projects (clickable pics):
 <!-- (clickable pics):  -->
 <!-- 3 or 12/4 Columns -->
 
-[![](./assets/img/autoshares.png)](./Auto-Shares/auto-index.md "Auto-Shares Infopage") [![](./assets/img/nikipedia-wiki.png)](#wiki "Nikipedia WIKI")
+[![](./assets/img/autoshares.png)](./auto-shares/auto-index.md "Auto-Shares Infopage") [![](./assets/img/nikipedia-wiki.png)](#wiki "Nikipedia WIKI")
 
 <!-- Tinkerbricks 
 [Cyprus] Solar Club [Subdomain] -->
@@ -212,7 +212,7 @@ Similarly for larger media item the "files" like audio will merely be http links
 ***
 
 
-I'll leave you with a every interesting video I saw recently. Thanks for stopping by, that'll be all.
+Lastly, I'll leave you with a every interesting video I saw recently. Thanks for stopping by, that'll be all.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8QiPFmIMxFc?start=1401" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
