@@ -1,6 +1,6 @@
 ![](./gif/plasma_simulation.gif)
 <br/>
-[Jump to my Portfolio Projects](#Portfolio)  || Discover one active project && Browse the wiki for anything else:
+[Jump to my Portfolio Projects](#Portfolio)  || Discover one of my ongoing project Auto-Shares && Check out the wiki for the others (clickable pics):
 
 <!-- (clickable pics):  -->
 <!-- 3 or 12/4 Columns -->
@@ -10,11 +10,11 @@
 <!-- Tinkerbricks 
 [Cyprus] Solar Club [Subdomain] -->
 <!-- Cloud Flare CDN -->
-
-
 <!-- I'm Feeling Lazy [Show me a video summary!](http://invidio.us)  -->
 
-## What is this Nikipedia thing anyway?
+There's a mailing list for rebels and bystanders to join. [go there](#mailing)
+
+## Firstly, what is this Nikipedia thing anyway?
 
 The foundation of communication involves making assumptions about what other people know. I assume you can read English, or have access to a browser-extension that can translate this page for you. My main point is that 'knowledge clouds' exist between us, and in order for us to make  significant scientific progress in the future we will need to communicate more efficiently. The only other options are increasing the lifespan in which to make progress, or increasing the 'information bandwidth' in which to achieve. This 'personal knowledge cloud' is the low-tech solution for my half of the communication problem. Although in essence I started it almost 30 years too late to become a 'real-time' reflection, Nikipedia is an ongoing repository of 'time-series data' that mirrors the path of intellectual things I choose to explore / exploit.
 
@@ -32,7 +32,7 @@ The idea is this:
 b) to test my own understanding as I develop personal 'reference documentation'.
 Continued maintenance of this project is also my personal fight against early-onset Alzheimer's, and it is likely one day some big data summaries could be extracted from the text files.
 
-It is not enough to read and study; you must create and solve.
+It is not enough to read and study; you must create and solve. [Jump to what I'm Aiming to solve](#aims)  
 
 ***
 Featured skill of the month:
@@ -44,6 +44,8 @@ I can prototype interactive designs in FramerX
 ![](./gif/frameX.gif)
 
 
+<a id="aims"> </a>
+<br/>
 ## Aims
 I'm lucky. I got to grow up in the right environment, with the right family, and get the right education.
 I spent my entire waking life orientatied towards one principle, in the same way Chris Hadfield chose to eat is vegetables from age 6 because he believed it would make him more likely to become an astronaut(!) -- My principle was more of a 'feeling' and the feeling was to 'search' for the roots of what drives humanity forward - and then contribute to it.  
@@ -59,6 +61,8 @@ What I (and feasibly You, my future collaborators) have decided to work on:
 
 And of course any other jobs/contracts/side projects/activities related to these Aims; they are holistic themes part of a bigger jigsaw puzzle -- therefore working to develop Customer Relationship Management software systems (which I have done), studying Physics to Masters' level, or gaining 2-3 years of employment in the AR hardware or VR Training industry, for example, are all necessary and relevant to enjoying the journey of achieving these Aims.
 
+<a id="mailing"> </a>
+<br/>
 
  <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/nickth" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/nickth', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">The Future of XYZ</a></p></form>
 If you would like to reach out/keep in touch/collaborate with me on this 4-part quest, consider signing up with your best email address here. The choice of how and when to be serendipitous is entirely yours.
@@ -162,17 +166,24 @@ My family's trade was Food Retail (specifically Fish & Chip shops) however as a 
 
 All in all these 2 projects took up 4-5 years of my life, but can honestly now say I've now 'done' much of what a professional business person could expect 'first hand' - chaired a board, raised venture captial, encounters with famous entrepreneurs _and that jazz_.
 
-***
-
-## Wiki
 <a id="wiki"> </a>
 <br/>
 
 ***
+## Wiki
 
-Introduction to the wiki project (and how to contribute or start your own personal nikipedia-like project) will go here. 
+***
+This was started on and still partially exists on [Dropbox Paper](http://bit.ly/39WwyEj) (There is a presentation mode button at the top if you prefer).
 
-Currently it is started on [Dropbox Paper](https://paper.dropbox.com/doc/Nikipedia.xyz--AoKMqJoL83fdu7Plfir9zBKpAQ-PDopxGgJNEDsApvVWYNjZ) but I seek to migrate / re-design it just because of the speed / memory footprint (other than that DBX Paper is a fantastic tool). 
+
+Introduction to the Wiki project will go here (& instructions on how to contribute or start your own personal "Nikipedia-like" / Knowledge-cloud project) 
+
+
+
+
+
+
+as the 'repository' but then decided to migrate / re-design it just because of the speed / memory footprint (other than that DBX Paper is a fantastic tool). 
 
 <!-- When it would be necessary / useful include a search tool -->
 
@@ -181,3 +192,20 @@ Currently it is started on [Dropbox Paper](https://paper.dropbox.com/doc/Nikiped
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
+&copy; Nick L. Theodorou MMXX - Heat Death of the Universe
+```
