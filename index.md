@@ -5,14 +5,11 @@
 <!-- (clickable pics):  -->
 <!-- 3 or 12/4 Columns -->
 
-![](./assets/img/autoshares.png) ![](./assets/img/nikipedia-wiki.png)
+[![](./assets/img/autoshares.png)](https://auto-shares.com "Auto Shares  Homepage") [![](./assets/img/nikipedia-wiki.png)](#wiki "Nikipedia WIKI")
 
-[![India Trip](https://i.ibb.co/tPbHVJL/https-i-ytimg-com-vi-r-U0yw-WUqaw-Q-maxresdefault.jpg)](https://www.youtube.com/watch?v=rU0ywWUqawQ "India Trip")
 <!-- Tinkerbricks 
 [Cyprus] Solar Club [Subdomain] -->
 <!-- Cloud Flare CDN -->
-
-
 
 
 <!-- I'm Feeling Lazy [Show me a video summary!](http://invidio.us)  -->
@@ -151,7 +148,7 @@ Xcode / Unity - Experimented with Apple's newly released AR Kit to create an iOS
 
 ***
 
-Everything you see above is work strictly engineered by me (solely), anything below is from a team project where I have served as a Product Manager / Project Manager:
+Everything you see above is work strictly engineered by me (solely), anything below is from a team project which I Product Managed / Project Managed:
 
 <br/>
 
@@ -161,21 +158,25 @@ Everything you see above is work strictly engineered by me (solely), anything be
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d_M9h4Ndxts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+My family's trade was Food Retail (specifically Fish & Chip shops) however as a teen I was unboundedly curious to demystify the heights of word "Business".
+
+All in all these 2 projects took up 4-5 years of my life, but can honestly now say I've now 'done' much of what a professional business person could expect 'first hand' - chaired a board, raised venture captial, encounters with famous entrepreneurs _and that jazz_.
 
 
+<a id="wiki"> </a>
+<br/>
+***
+## Wiki
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-155936338-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+***
 
-  gtag('config', 'UA-155936338-1');
-</script>
+Introduction to the wiki project (and how to contribute or start your own personal nikipedia-like project) will go here. 
 
+Currently it is started on ![Dropbox Paper](https://paper.dropbox.com/doc/Nikipedia.xyz--AoKMqJoL83fdu7Plfir9zBKpAQ-PDopxGgJNEDsApvVWYNjZ) but I seek to migrate / re-design it just because of the speed / memory footprint (other than that DBX Paper is a fantastic tool). 
 
+<!-- When it would be necessary / useful include a search tool -->
 
+<!-- List of links to other projects, Just the Script,  etc.  -->
 
 
 
