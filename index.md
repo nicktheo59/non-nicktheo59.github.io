@@ -231,25 +231,7 @@ Finally, I'll leave you with perspective-changing long video to watch if you hav
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 
-&copy; Nick L. Theodorou MMXX - Heat Death of the Universe (or, you know, until any of my work moves into the public domain)
+&copy; Nick L. Theodorou MMXX - Heat Death of the Universe (or, you know, until the expiry date moves my work into the public domain)
 
