@@ -212,13 +212,10 @@ Similarly for larger media item the "files" like audio will merely be http links
 ***
 
 
-Finally, I'll leave you with perspective-changing long video to watch if you have time for it...  
+Lastly, I'll leave you with a every interesting video I saw recently. Thanks for stopping by, that'll be all.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8QiPFmIMxFc?start=1401" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-...or a much shorter one if you don't. Thanks for stopping by.
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fW8amMCVAJQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- When it would be necessary / useful include a search tool -->
 
