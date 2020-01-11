@@ -187,27 +187,31 @@ Here is a placeholder list of concepts I've learnt and am in the process of expl
 ![](assets/img/jigsaw.png)
 
 To start your own personal "Nikipedia-like" / Knowledge-cloud project:
-1. Just click the very first button at the top of this page, 
-2. fork this Repo on Github, rename it the same as your Github username (as I did with mine), 
-3. replace my content with yours, style it however you like (optional), then tell me it exists (I would love to check it out)
-
-Same instructions go for Collaborating, Correcting anything I wrote, or otherwise "Contributing" (intellectually that is...) plus
-
-4. Open a Pull request on Github
-
-Here are a list of changed folders I'm willing to accept Pull Requests from once I have had time to review it and (in the spirit of this entire project) demonstated that your content is now _actually_ part of my knowledge cloud -- ensuring that this website doesn't simply become a pale pale version of actual Wikipedia.
-
+<br/>
+* 1) Click the very first button at the top of this page, 
+* 2) fork this Repo on Github, rename it the same as your Github username (in the same way I did with mine), this will give you a hosted website
+* 3) replace my content with yours, style it however you like (optional), then tell me it exists (I would love to check it out)
+<br/>
+Same instructions go for Collaborating on my wiki entries / Correcting anything I wrote, plus
+<br/>
+* 4) commit the changes you made to a separate git branch, then open a Pull request on Github 
+<br/>
+Here are a list of folders within this website repo that I am willing to accept Pull Requests about:
+<br/>
 * ./wiki
 * ./auto-shares
-* ./tinkerbricks (tbc)
+<!-- * ./tinkerbricks (tbc)
 * ./solarclub (tbc)
 * ./Just-The-Script.com (tbc)
 * ./Alternate-Realities-visitorbook (tbc)
 * ./Reunification-project (tbc)
-* ./BSFL (tbc)
-
-For some of these (if they are truly to all exist here in this one repo) Containerisation will be essential ^^
-Similarly for larger media item the "files" like audio will merely be http links that point to their actual location on a CDN. 
+* ./BSFL (tbc) -->
+<br/>
+Before I accept a Pull Request (in the spirit of this entire project) I will need time to demonstate the claim that your changes are now _actually_ part of my own personal knowledge repetoire -- to ensure that this website doesn't simply become a pale pale version of actual Wikipedia.
+<br/>
+If _everything_ ends up staying in this one repo (apparently that is how GOOGLE genuinely manage their entire code base), then for some projects/folders Containerisation will be essential ^^
+<br/>
+Similarly, for any larger media items, these "files" (like audio etc.) will merely be http links that point to their actual location on a CDN. 
 
 ***
 
