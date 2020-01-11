@@ -9,7 +9,7 @@ Discover one of my active projects (clickable pics):
 <!-- (clickable pics):  -->
 <!-- 3 or 12/4 Columns -->
 
-[![](./assets/img/autoshares.png)](./autoshares/autoshares.md "Auto-Shares Infopage") 
+[![](./assets/img/autoshares.png)](./autoshares/autoshares.html "Auto-Shares Infopage") 
 [![](./assets/img/nikipedia-wiki.png)](#wiki "Nikipedia WIKI")
 
 <!-- Tinkerbricks 
