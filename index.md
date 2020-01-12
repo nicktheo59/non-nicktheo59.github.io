@@ -83,6 +83,7 @@ More links/gifs coming soon with concise explanations; this list is continuously
 
 
 ![](./gif/caption_search.gif)
+*My design of a Search Engine for YouTube captions*
 
 If, having skimmed through my Portfolio Projects below, you have any feedback (or even potential job offers),
 the best (and fastest) place to probably reach me is Twitter. DMs are open :)
