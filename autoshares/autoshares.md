@@ -23,7 +23,7 @@ Auto-Shares Pensions
 VendHawk
 TillHawk
 
-I do understand that these loose and esoteric referals to semi-baked fictitious products may raise more questions than they answer...all I can say is I agree with you. ^^
+I do understand that these loose and esoteric referals to semi-baked products may raise more questions than they answer... I agree with you. ^^
 
 ![](assets/img/masterplan.png)
 

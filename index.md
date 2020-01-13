@@ -202,12 +202,16 @@ Here are a list of folders within this website repo that I am willing to accept 
 <br/>
 * ./wiki
 * ./auto-shares
+
+
 <!-- * ./tinkerbricks (tbc)
 * ./solarclub (tbc)
 * ./Just-The-Script.com (tbc)
 * ./Alternate-Realities-visitorbook (tbc)
 * ./Reunification-project (tbc)
 * ./BSFL (tbc) -->
+
+
 <br/>
 Before I accept a Pull Request (in the spirit of this entire project) I will need time to demonstate the claim that your changes are now _actually_ part of my own personal knowledge repetoire -- to ensure that this website doesn't simply become a pale pale version of actual Wikipedia.
 <br/>
