@@ -12,14 +12,23 @@ layout: default
 * Solar Club
 * BSFL
 
-These 4 semi-descriptive project names encode my version of 'how the future should be' across: 
+My business is all about:
 
-* Pensions, Basic Income, Autonomous Transport; 
-* Education, Recruitment, Training; 
-* Renewable Energy Financing;
-* Foodchain sustainability
+Quick Wins
+Real Ground Conversion Process
+Digital Fabrication Process
+Proprietary Multi-domain Scaleable system
+Data-led maintainance operations and optimisations 
 
 
+
+##Solar Club
+
+***
+
+##BSFL
+
+***
 
 
 ##Auto-Shares
@@ -50,14 +59,3 @@ The other major opportunity here is that recorded user inputs can be used to dem
 
 ***
 
-##Solar Club
-
-
-
-***
-
-##BSFL
-
-
-
-***
