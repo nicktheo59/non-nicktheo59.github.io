@@ -26,9 +26,7 @@ TillHawk
 
 I do understand that these loose and esoteric referals to semi-baked products may raise more questions than they answer... I agree with you. ^^
 
-![](./assets/img/masterplan-min.png)
-
-
+![](../assets/img/masterplan-min.png)
 
 
 
