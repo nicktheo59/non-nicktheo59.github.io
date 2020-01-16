@@ -184,6 +184,7 @@ Here is a placeholder list of concepts I've learnt and am in the process of expl
 
 * [Quantum Error Correction](./wiki/QuantumErrorCorrection.md) 🏁
 * Fermi Surfaces 🏁
+* [Unlisted Videos](./wiki/unlisted_videos.md) 🏁
 
 
 ![](assets/img/jigsaw.png)

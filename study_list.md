@@ -4,7 +4,7 @@ Satellites
 Annealing
 Fermi Surface
 TTT diagrams
-Py trading bots in colab
+Py day trading bots in colab
 PLC mechanics -- solitcitors' jobs 
 
 MLflow

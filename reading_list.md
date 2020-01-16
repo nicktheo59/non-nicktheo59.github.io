@@ -2,7 +2,19 @@ reading list
 
 Next:
 
-What is life - Erwin 
+What is life - Erwin Schrodinger
+	Motivation: It is what led James Watson into the field (he was originally a mathematician) and, importantly, it can be read in littel under 2 hours.
+
+
+
+
+***
+
+
+
+
+
+
 
 ***
 Read and make visual notes of:
@@ -59,12 +71,12 @@ Check out:
 Are these signals.. do nootropics alter your brain waves? At some level, surely
 
 List of people to re-connect with:
-	Ellie - done
-	Akshay
+	Ellie - 
+	Akshay 
 	Philip 
-	Tom 
+	Tom Hill 
 	Hemmit
-	Noey - kinda done
+	Noey - 
 	Zahra - 
 	Tiffany
 	Zee
