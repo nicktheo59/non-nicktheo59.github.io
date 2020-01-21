@@ -5,10 +5,8 @@ Next:
 What is life - Erwin Schrodinger
 	Motivation: It is what led James Watson into the field (he was originally a mathematician) and, importantly, it can be read in littel under 2 hours.
 
-
-
-
 ***
+
 
 
 
@@ -18,8 +16,8 @@ What is life - Erwin Schrodinger
 
 ***
 Read and make visual notes of:
-	The CELL by _
-	Structure and Dynamics: An atomic View of Materials by Martin T. Dove
+		The CELL by _
+		Structure and Dynamics: An atomic View of Materials by Martin T. Dove
 		Griffth - Introduction to Electrodynamics
 		QC & C by Michael Nielsen and Isaac Chuang
 		The recommended text on QM
@@ -37,6 +35,7 @@ Read and make visual notes of:
 		Feynman Lectures Volume I - III
 		Physics by Example
 		Liebman's Neuroanatomy made easy and understandable 	
+
 Re-Read:
 	Discover Meteor?
 	Intro to App Development with Swift
@@ -58,7 +57,7 @@ Re-Read:
 	High Output Management
 	The Character of Physical Law
 	Six not so easy pieces
-	Feynman Simplifies - $A Math for physicists
+	Feynman Simplifies - 4A Math for physicists
 
 Check out:
 	The Model Thinker by Scott Page - what you need to know to make data work for you
@@ -68,11 +67,11 @@ Check out:
 	Nick Lane - the vital question
 	Life Ascending by Nick Lane
 
-Are these signals.. do nootropics alter your brain waves? At some level, surely
+Are these signals.. do nootropics alter your brain waves? At some level, surely - I would like to study the molecular biology of nootropics
 
 List of people to re-connect with:
 	Ellie - 
-	Akshay 
+	Akshay -
 	Philip 
 	Tom Hill 
 	Hemmit
@@ -81,8 +80,8 @@ List of people to re-connect with:
 	Tiffany
 	Zee
 	Johnny - 
-	CD Baby guy - Derek Sivers
-	Founder of EasyJet Stelios Haji-Ioannou
+	Derek Sivers -  CD Baby guy
+	Stelios Haji-Ioannou - 
 
 <!-- 	MSc in Trade, Shipping, & Finance from Cass Business school
 	Economics at LSE
@@ -92,4 +91,9 @@ List of people to re-connect with:
 Learning WebTech Projects:
 	Meteor - https://themeteorchef.com/
 	Firebase - 
+	Laravel - 
+	Flask - 
+
+Remember: Still have $15 Codementor credit 
+
 

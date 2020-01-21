@@ -12,7 +12,7 @@ _16th Jan 2019_
 
 coming soon
 
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZvjtR8mRFvs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -32,7 +32,7 @@ It wasn't a strict mathematical proof (something that Archimedes knew and made v
 
 I didn't upload this one to Youtube as it was a bit rough, but it will go here if I record it.
 
-![](./unlisted_videos/archim1.md)
+![](./unlisted_videos/archim1.png)
 
-![](./unlisted_videos/archim3.md)
+![](./unlisted_videos/archim3.png)
 

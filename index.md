@@ -187,7 +187,14 @@ Here is a placeholder list of concepts I've learnt and am in the process of expl
 * [Unlisted Videos](./wiki/unlisted_videos.md) 🏁
 
 
+***
+## Progress on Aims
+### My 'Now' page (past, present, and future)
+
 ![](assets/img/jigsaw.png)
+* [Visual Accountability](./autoshares/visual_accountability.md)
+
+***
 
 To start your own personal "Nikipedia-like" / Knowledge-cloud project:
 <br/>
