@@ -67,9 +67,11 @@ What I (and feasibly You, my future collaborators) have decided to work on:
 And of course any other jobs/contracts/side projects/activities related to these Aims; they are holistic themes part of a bigger jigsaw puzzle -- therefore working to develop Customer Relationship Management software systems (which I have done), studying Physics to Masters' level, or gaining 2-3 years of employment in the AR hardware or VR Training industry, for example, are all necessary and relevant to enjoying the journey of achieving these Aims.
 
 ## Progress on Aims
-<button type="button" onclick="window.location.href = './autoshares/visual_accountability.md';">Peek</button>
+
 
 * [Visual Accountability](./autoshares/visual_accountability.md)
+
+<button type="button" onclick="window.location.href = './autoshares/visual_accountability.html';">View Comic</button>
 
 ***
 
