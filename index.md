@@ -66,6 +66,12 @@ What I (and feasibly You, my future collaborators) have decided to work on:
 
 And of course any other jobs/contracts/side projects/activities related to these Aims; they are holistic themes part of a bigger jigsaw puzzle -- therefore working to develop Customer Relationship Management software systems (which I have done), studying Physics to Masters' level, or gaining 2-3 years of employment in the AR hardware or VR Training industry, for example, are all necessary and relevant to enjoying the journey of achieving these Aims.
 
+## Progress on Aims
+
+* [Visual Accountability](./autoshares/visual_accountability.md)
+
+***
+
 <a id="mailing"> </a>
 <br/>
 
@@ -186,13 +192,6 @@ Here is a placeholder list of concepts I've learnt and am in the process of expl
 * Fermi Surfaces 🏁
 * [Unlisted Videos](./wiki/unlisted_videos.md) 🏁
 
-
-***
-## Progress on Aims
-### My 'Now' page (past, present, and future)
-
-![](assets/img/jigsaw.png)
-* [Visual Accountability](./autoshares/visual_accountability.md)
 
 ***
 
