@@ -2,6 +2,7 @@
 <br/>
 [Jump to my Portfolio Projects](#Portfolio)
 <br/>
+<br/>
 There's also a mailing list for fellow rebels (and bystanders) to join. [Go there](#mailing)
 
 ***
