@@ -77,9 +77,10 @@ And of course any other jobs/contracts/side projects/activities related to these
 
 
 * [Visual Accountability](./autoshares/visual_accountability.md)
-<button type="button" class="btn btn-info" onclick="window.location.href = './autoshares/visual_accountability.html';">View Comic</button>
-<!-- <button type="button" onclick="window.location.href = './autoshares/visual_accountability.html';">View Comic</button>
+<!-- <button type="button" class="btn btn-info" onclick="window.location.href = './autoshares/visual_accountability.html';">View Comic</button>
  -->
+ <button type="button" onclick="window.location.href = './autoshares/visual_accountability.html';">View Comic</button>
+
 ***
 
 <a id="mailing"> </a>
