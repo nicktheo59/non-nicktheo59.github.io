@@ -1,3 +1,7 @@
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+
+
 ![](./gif/plasma_simulation.gif)
 <br/>
 [Jump to my Portfolio Projects](#Portfolio)
@@ -73,9 +77,9 @@ And of course any other jobs/contracts/side projects/activities related to these
 
 
 * [Visual Accountability](./autoshares/visual_accountability.md)
-
-<button type="button" onclick="window.location.href = './autoshares/visual_accountability.html';">View Comic</button>
-
+<button type="button" class="btn btn-info" onclick="window.location.href = './autoshares/visual_accountability.html';">View Comic</button>
+<!-- <button type="button" onclick="window.location.href = './autoshares/visual_accountability.html';">View Comic</button>
+ -->
 ***
 
 <a id="mailing"> </a>
