@@ -1,4 +1,4 @@
-Streamlining: Emails, Brands, Workspaces
+Streamlining: Emails, Brands, Workspaces, Domains
 
 Nickth
 nt@
@@ -23,5 +23,19 @@ Dropbox Paper & Nikipedia Daily
 	(Sketches - Apple pencil app)
 	[Email - which ones?]
 	[Web Push Chat Widget / Support Tickets]
+
+
+
+Find out renewal costs:
+
+ntech - google sites, namecheap, gmail
+nikipedia - github pages jekyll, namecheap, no email
+auto-shares - jimdo /// namecheap, no email atm, decide next 
+
+tinkerbricks - Filezilla LAMP one mariadb?, one email
+360caravan - wordpress auto-upgrade, one email, 
+treadyourway - shopify, namecheap privateemail
+
+***
 
 

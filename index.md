@@ -69,17 +69,19 @@ What I (and feasibly You, my future collaborators) have decided to work on:
 - The Future of Pensions and Transport (Auto-Shares)
 - The Future of Food and Waste Management (BSFL)
 
-![](assets/img/jigsaw.png)
-
-And of course any other jobs/contracts/side projects/activities related to these Aims; they are holistic themes part of a bigger jigsaw puzzle -- therefore working to develop Customer Relationship Management software systems (which I have done), studying Physics to Masters' level, or gaining 2-3 years of employment in the AR hardware or VR Training industry, for example, are all necessary and relevant to enjoying the journey of achieving these Aims.
+![](assets/img/jigsaw.png) _Add a [solar] roof and this becomes a symbolic representation (logo) for my Auto-Shares 'urban farm units'._
 
 ## Progress on Aims
+
+I'll consider any job opportunities/contracts/side projects/activities relating to these Aims; they are holistic themes part of a bigger jigsaw puzzle -- to create one 'urban farm unit' per neighbourhood of 20,000 people. 
 
 
 * [Visual Accountability](./autoshares/visual_accountability.md)
 <!-- <button type="button" class="btn btn-info" onclick="window.location.href = './autoshares/visual_accountability.html';">View Comic</button>
  -->
  <button type="button" onclick="window.location.href = './autoshares/visual_accountability.html';">View Comic</button>
+
+Working to develop Customer Relationship Management software (which I have done), studying Physics to Masters' level, or gaining 2-3 years of employment in the AR hardware or VR Training industry, for example, are all necessary and relevant to enjoying the journey of achieving these Aims. Don't be shy, hire me on 
 
 ***
 
@@ -109,6 +111,31 @@ the best (and fastest) place to probably reach me is Twitter. DMs are open :)
 
 <!-- Downloadable CV with email capture / sent to your email ex mailinator, and/or simply linkedIn - with has pixel tracking anyway
  -->
+
+Also, I'm still in the process of setting up 5+ gigs but, to help me achieve my Aims, you can check out the services I offer on Fiverr!
+
+<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/nicktheo rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-8948bf3b-0653-4a10-b8d8-b244c4ac0609' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >nicktheo</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>My key strengths lie in identifying Strategic focus, Product management, scoping out Technology solutions before any excessive cost. See my portfolio
+
+I've delivered global IT projects for large companies - NHS, Interserve, Virgin Media.
+My business mentor was Sir Terry Matthews and Wesley Clover I sat on the board of a technology startup before leaving to pursue my own business interests in 2016.
+
+I enjoy consulting - it truly energises me to share a lot of value with fellow or aspiring entrepreneurs in a condensed amount of time, but of course ongoing engagements may also prove valuable.</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-8948bf3b-0653-4a10-b8d8-b244c4ac0609' src='https://widgets.fiverr.com/api/v1/seller/nicktheo?widget_id=8948bf3b-0653-4a10-b8d8-b244c4ac0609' data-config='{"category_name":"\n                                    Programming \u0026 Tech\n\n                            "}' async='true' defer='true'></script>
+
+
 
 ***
 Pre-Graduation:
