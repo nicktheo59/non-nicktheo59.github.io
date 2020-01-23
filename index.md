@@ -55,6 +55,15 @@ I can prototype interactive designs in FramerX
 
 ![](./gif/frameX.gif)
 
+I'm still in the process of setting up 5+ gigs but, if you're interested, you can check out what other techie services I offer on Fiverr!
+
+<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'><a itemprop='url' href=https://www.fiverr.com/nicktheo rel="nofollow" target="_blank" style='display: inline-block;'><div class='fiverr-seller-content' id='fiverr-seller-widget-content-8948bf3b-0653-4a10-b8d8-b244c4ac0609' itemprop='contentURL' style='display: none;'></div><div id='fiverr-widget-seller-data' style='display: none;'><div itemprop='name' >nicktheo</div>
+<div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+<div itemprop='jobtitle'>Seller</div><div itemprop='description'>My key strengths lie in identifying Strategic focus, Product management, scoping out Technology solutions before any excessive cost. See my portfolio. <br/> I've delivered global IT projects for large companies - NHS, Interserve, Virgin Media.
+My business mentor was Sir Terry Matthews and Wesley Clover I sat on the board of a technology startup before leaving to pursue my own business interests in 2016.
+I enjoy consulting - it truly energises me to share a lot of value with fellow or aspiring entrepreneurs in a condensed amount of time, but of course ongoing engagements may also prove valuable.</div></div></a></div><script id='fiverr-seller-widget-script-8948bf3b-0653-4a10-b8d8-b244c4ac0609' src='https://widgets.fiverr.com/api/v1/seller/nicktheo?widget_id=8948bf3b-0653-4a10-b8d8-b244c4ac0609' data-config='{"category_name":"\n                                    Programming \u0026 Tech\n\n                            "}' async='true' defer='true'></script>
 
 <a id="aims"> </a>
 <br/>
@@ -111,31 +120,6 @@ the best (and fastest) place to probably reach me is Twitter. DMs are open :)
 
 <!-- Downloadable CV with email capture / sent to your email ex mailinator, and/or simply linkedIn - with has pixel tracking anyway
  -->
-
-Also, I'm still in the process of setting up 5+ gigs but, to help me achieve my Aims, you can check out the services I offer on Fiverr!
-
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/nicktheo rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-8948bf3b-0653-4a10-b8d8-b244c4ac0609' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >nicktheo</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>My key strengths lie in identifying Strategic focus, Product management, scoping out Technology solutions before any excessive cost. See my portfolio
-
-I've delivered global IT projects for large companies - NHS, Interserve, Virgin Media.
-My business mentor was Sir Terry Matthews and Wesley Clover I sat on the board of a technology startup before leaving to pursue my own business interests in 2016.
-
-I enjoy consulting - it truly energises me to share a lot of value with fellow or aspiring entrepreneurs in a condensed amount of time, but of course ongoing engagements may also prove valuable.</div>
-        </div>
-    </a>
-</div>
-
-<script id='fiverr-seller-widget-script-8948bf3b-0653-4a10-b8d8-b244c4ac0609' src='https://widgets.fiverr.com/api/v1/seller/nicktheo?widget_id=8948bf3b-0653-4a10-b8d8-b244c4ac0609' data-config='{"category_name":"\n                                    Programming \u0026 Tech\n\n                            "}' async='true' defer='true'></script>
-
-
 
 ***
 Pre-Graduation:
