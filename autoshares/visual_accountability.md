@@ -18,6 +18,11 @@ But my gut tells me that the volume/significance of what we achieve (in a post-i
 
 ### Jan-Feb 2020: Post-
 
+<blockquote class="trello-board-compact">
+  <a href="https://trello.com/b/reNLd9TF">Trello Board</a>
+</blockquote>
+<script src="https://p.trellocdn.com/embed.min.js"></script>
+
 ***
 
 ## Quarter
