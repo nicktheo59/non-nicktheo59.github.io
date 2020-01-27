@@ -281,5 +281,10 @@ Finally, I'll leave you with perspective-changing long video to watch if you hav
 
 &copy; Nick L. Theodorou MMXX - Heat Death of the Universe (or, you know, until the expiry date moves my work into the public domain)
 
+***
 
+### Contact
+If you found this you can Email me directly: nick@treadyourway.com
+![](./assets/img/me.jpg)
+If you found this  you can Email me directly: nick@treadyourway.com
 <!-- ![](./assets/img/masterplan-min.png) -->
