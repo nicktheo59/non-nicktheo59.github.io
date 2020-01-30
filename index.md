@@ -103,7 +103,7 @@ Working to develop Customer Relationship Management software (which I have done)
 
 ## Mailing list - stay in touch
 
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/nickth" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/nickth', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">The Future of XYZ</a></p></form>
+<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/nickth" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/nickth', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com/nickth" target="_blank">The Future of XYZ</a></p></form>
 
 If you would like to reach out/keep in touch/collaborate with me on this 4-part quest, consider signing up with your best email address here. The choice of how and when to be serendipitous is entirely yours.
 

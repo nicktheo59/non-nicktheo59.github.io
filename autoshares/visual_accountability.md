@@ -9,6 +9,8 @@ Still working out the exact format for this but it will include:
 
 But my gut tells me that the volume/significance of what we achieve (in a post-information age) is more limited by the ability to visualise what we truly want, more so than seeking time-based 'Agile' optimisations (although, of course, there are productivity ceilings that might need to be overcome e.g. by hiring more sales people).
 
+![](../assets/img/p2w-min.jpg)
+
 
 ## Month 
 
