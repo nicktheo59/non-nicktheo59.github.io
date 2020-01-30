@@ -25,3 +25,5 @@ This capabililty however is double-edged sword more broadly, because in the clos
 My hunch is we will go through some 'wild west' phase where a motivated individual could quantumly decrypt stuff like internet banking transactions -- but then again probably not because if a responsible quantum computing service provider would ask for ID credentials etc. (I'm assuming they didn't build their own one). 
 
 Anyway it would all be for the better if have the capability to know about potential Eavesdroppers to the line to wait and try again later -- but yet again maybe not because the US would not have reliable oversight to enforce sanctions on rogue states or participate in 'other' intelligence gathering activities that help bring peace and stability in the world -- unless they just continue doing what they do and simply don't care -- then both Quantum Communications and Edward Snowden become moot(!) 
+
+

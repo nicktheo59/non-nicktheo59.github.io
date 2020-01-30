@@ -34,5 +34,5 @@ I didn't upload this one to Youtube as it was a bit rough, but it will go here i
 
 ![](./unlisted_videos/archim1.png)
 
-![](./unlisted_videos/archim3.png)
+![](./unlisted_videos/archim3.jpg)
 
