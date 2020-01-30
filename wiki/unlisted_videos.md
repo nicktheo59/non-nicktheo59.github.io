@@ -7,6 +7,8 @@ Some open source software out there completely rocks: OBS, Youtube-dl, Blender, 
 Once I became happy with the basic ability to setup OBS I started recording myself -- with the intention of creating 'content' that would help me retain knowledge and experiences, but for me to take it seriously / stay accountable I have to have a final 'objective'. All these unlisted YouTube videos are my output of that endeavour / rationale / thinking. The other reason for make this semi-public is personal speed efficiency accessibilty to the content i.e. I don't mind if people stumble on this, but I wouldn't expect them to stick with learning the exact same things that I am learning... indeed you must 'teach' yourself to retain 90%, write it down and you might retain 70%, listen to it and you'll retain 20%, read it and you'll retain 10%; it is more efficient to teach something in your own words in order to retain it.
 
 
+[Daily Keeps](./daily_keeps.md).
+
 ### NHS STP Open day (Cancer Genomics)
 _16th Jan 2019_
 
