@@ -1,6 +1,5 @@
 <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> -->
 
-Fixed2
 
 ![](./gif/plasma_simulation.gif)
 <br/>
@@ -10,6 +9,7 @@ Fixed2
 There's also a mailing list for fellow rebels (and bystanders) to join. [Go there](#mailing)
 
 ***
+Fixed 3
 
 Discover one of my active projects (clickable pics):
 
