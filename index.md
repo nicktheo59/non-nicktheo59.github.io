@@ -9,7 +9,6 @@
 There's also a mailing list for fellow rebels (and bystanders) to join. [Go there](#mailing)
 
 ***
-Fixed 3
 
 Discover one of my active projects (clickable pics):
 
