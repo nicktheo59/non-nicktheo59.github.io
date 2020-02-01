@@ -2,10 +2,11 @@
 layout: default
 ---
 
-link content from example-20JAN30.md with a date Heading (reverse chronological)
+link content from example-20JAN30.md with a date Heading (reverse chronological):
+
+***
+### Start included file
 
 {% include example_20JAN30.md %}
 
-***
-
-Let's see if that works.
+### End included file
