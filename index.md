@@ -6,7 +6,7 @@
 [Jump to my Portfolio Projects](#Portfolio)
 <br/>
 <br/>
-There's also a mailing list for fellow rebels (and bystanders) to join. [Go there](#mailing)
+There's also a mailing list for fellow rebels (and innocent bystanders) to join. [Go there](#mailing)
 
 ***
 
@@ -282,8 +282,4 @@ Finally, I'll leave you with perspective-changing long video to watch if you hav
 
 ***
 
-### Contact
-If you found this you can Email me directly: nick@treadyourway.com
-![](./assets/img/me.jpg)
-If you found this  you can Email me directly: nick@treadyourway.com
 <!-- ![](./assets/img/masterplan-min.png) -->

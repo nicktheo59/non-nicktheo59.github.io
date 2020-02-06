@@ -7,7 +7,7 @@ Telephone Interviewer Robot
 
 ***
 
-Holibob swap
+
 TUTU2
 Automatic number plate recognition (for Click & Collect)
 CoLab and Paperspace and Hosting using the public IP
@@ -24,4 +24,10 @@ Make and create visual instructions of:
 
 Re-Make:
 	Self Assessment & Company accounts process
+
+***
+
+Relegated: 
+	Holibob swap 
+
 
