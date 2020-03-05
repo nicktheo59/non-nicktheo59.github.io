@@ -81,7 +81,7 @@ What I (and feasibly You, my future collaborators) have decided to work on:
 - The Future of Pensions and Transport (Auto-Shares)
 - The Future of Food and Waste Management (BSFL)
 
-![](assets/img/jigsaw.png) _Add a [solar] roof and this becomes a symbolic representation (logo) for my Auto-Shares 'urban farm units'._
+![](assets/img/LarvaeLabs.png) The link / QR Code to download the App will soon go here. Until then, you can join the email list [Go there](#mailing)
 
 ## Progress on Aims
 
