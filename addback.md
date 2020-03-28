@@ -1,22 +1,23 @@
 
-# WELCOME - Start Here
-
-_Addback_ 
+# _Addback_ 
 [əˈdßåçk]
 
 NOUN
-1. the action of investing your time and money into products that yield profound multiplicative benefits, such as productivity, health, security, and personal welbeing.
+1. the action of investing your time and money into products that yield `profound benefits`, such as productivity, health, security, and personal welbeing.
 
 2. adding or compounding your rate of personal / professional / financial achievement through excellent decision making
-i.e. the decision to evaluate and purchase one or more of the products below:
+
+
+i.e. the decision to evaluate and purchase any of the carefully researched products below:
 
 
 ## Kefir Grains
 
-Insert Explainer Video
-Insert Chat Button
-Insert Ordering Progress
-One page per product and _includes_ the others to each other...
+- Insert Explainer Video
+- Insert Chat Button
+- Insert Ordering Progress
+- One page per product and _includes_ the others to each other...
+- Referral codes for the first 100 customers 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4p2Mkdyvbl0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
