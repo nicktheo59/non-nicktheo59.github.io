@@ -1,7 +1,8 @@
 
 # Welcome -- Start Here
 
-## _Addback_ 
+## Define _Addback_ 
+
 ###[əˈdßåçk]
 
 NOUN
@@ -20,7 +21,20 @@ e.g. the decision to evaluate and purchase any of my carefully researched produc
 - Insert Chat Button
 - Insert Ordering Progress
 - One page per product and _includes_ the others to each other...
-- Referral codes for the first 100 customers 
+- Referral codes for the first 100 customers
+- Link and QR Code to Glide App -- Product Manage the desired App functionality
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
