@@ -1,8 +1,10 @@
-
+---
+layout: default
+---
 
 ### Start included file
 
-{% include example_20JAN30.md %}
+{% include new.md %}
 
 ### End included file
 
