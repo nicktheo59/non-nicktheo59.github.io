@@ -1,9 +1,7 @@
 
-# Welcome -- Start Here
+# Welcome to Addback.TV
 
-## Define _Addback_ 
-
-###[əˈdßåçk]
+## Define _Addback_ [əˈdßåçk]
 
 NOUN
 1. the action of investing your time and money into products that yield `profound benefits`, such as productivity, health, security, and personal welbeing.
