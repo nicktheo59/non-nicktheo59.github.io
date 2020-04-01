@@ -52,3 +52,6 @@ If you would like to keep track with Nick L. Theodorou and his [4-part quest](ht
 <!-- Sort out a Plugin for lowercase to Upper case  URL redirects (or vice versa would be the common standard)
 
 https://github.com/jekyll/jekyll-redirect-from -->
+*** 
+
+
