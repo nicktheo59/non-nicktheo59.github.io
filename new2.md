@@ -1,7 +1,3 @@
----
-layout: default
----
-
 
 
 ### Start included file
