@@ -53,7 +53,11 @@ span{
 
 <body>
 
+<<<<<<< Updated upstream:_includes/new.md
 <p>Define "AddBack" 
+=======
+<p>Define "AddBack" Fixed</a> 
+>>>>>>> Stashed changes:new.md
 <span>|</span></p> 
 
 </body>
